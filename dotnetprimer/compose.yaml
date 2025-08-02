@@ -1,0 +1,7 @@
+﻿services:
+  dotnetprimer:
+    image: dotnetprimer
+    build:
+      context: .
+      dockerfile: dotnetprimer/Dockerfile
+
