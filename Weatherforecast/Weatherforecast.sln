@@ -1,0 +1,21 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Weatherforecast", "Weatherforecast\Weatherforecast.csproj", "{D2672BD6-050B-47EB-9ED3-124B2316D533}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{C7D8DFC6-CDDF-4029-AA54-F3FFF1BA7212}"
+	ProjectSection(SolutionItems) = preProject
+		compose.yaml = compose.yaml
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D2672BD6-050B-47EB-9ED3-124B2316D533}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2672BD6-050B-47EB-9ED3-124B2316D533}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2672BD6-050B-47EB-9ED3-124B2316D533}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2672BD6-050B-47EB-9ED3-124B2316D533}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
